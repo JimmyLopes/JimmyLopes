@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-jbotezine@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jbotezine@gmail.com)](mailto:jbotezine@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/jbotezine/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jbotezine/)
 
 <!--
 **JimmyLopes/JimmyLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
