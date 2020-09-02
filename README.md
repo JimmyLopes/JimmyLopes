@@ -17,7 +17,6 @@
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
 
 &nbsp;
 
@@ -35,6 +34,14 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/amazonaws.svg"></code>
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/apachemaven.svg"></code>
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/spring.svg"></code>
+  <br />
+  <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/git.svg"></code>
+  <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/redis.svg"></code>
+  <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/node-dot-js.svg"></code>
+  <br />
+  <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/html5.svg"></code>
+  <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/css3.svg"></code>
+  <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/react.svg"></code>
   <br />
   
 </p>
