@@ -32,9 +32,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/amazonaws.svg"></code>
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/apachemaven.svg"></code>
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/spring.svg"></code>
-  
-  <br/>
-  
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/docker.svg"></code>
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/java.svg"></code>
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/javascript.svg"></code>  
@@ -43,10 +40,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/node-dot-js.svg"></code>
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/git.svg"></code>
-  <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/redis.svg"></code>  
-  
-  <br/>
-  
+  <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/redis.svg"></code>
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/html5.svg"></code>
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/css3.svg"></code>
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/react.svg"></code>  
