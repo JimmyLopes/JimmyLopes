@@ -11,7 +11,7 @@
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working on confidential project 😄;
+- 💻 I’m currently working on Spring Boot with AWS Solutions;
 - 🌱 I’m currently learning React; 
 - 🤔 I’m looking for help with React Native 😭;
 - 💬 Ask me about anything, I am happy to help;
