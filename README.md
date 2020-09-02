@@ -29,7 +29,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   
-  <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/amazonaws.svg"></code>
+  <code><img width="7%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/amazonaws.svg"></code>
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/apachemaven.svg"></code>
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/spring.svg"></code>
   
