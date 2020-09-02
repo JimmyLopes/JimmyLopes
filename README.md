@@ -11,12 +11,10 @@
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
+- 💻 I’m currently working on confidential project 😄;
 - 🌱 I’m currently learning React; 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 🤔 I’m looking for help with React Native 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
 
 &nbsp;
 
@@ -41,7 +39,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/html5.svg"></code>
   <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/css3.svg"></code>
-  <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/react.svg""></code>
+  <code><img width="10%" src="https://github.com/JimmyLopes/JimmyLopes/blob/master/Icons/react.svg"></code>
   <br />
   
 </p>
