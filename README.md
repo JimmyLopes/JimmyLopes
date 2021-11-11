@@ -48,6 +48,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   
 </p>
 
+<div>![Snake animation](https://github.com/JimmyLopes/JimmyLopes/icons/github-contribution-grid-snake.svg)</div>
+
 <!--
 **JimmyLopes/JimmyLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
